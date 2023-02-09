@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Analysis Projects:</h2>
 
-- <b><a href="https://github.com/D-Issa/LABURL">Bellabeat Smart Device Analysis</a></b>
+- <b><a href="https://github.com/D-Issa/Bellabeat-Smart-Device-Analysis">Bellabeat Smart Device Analysis</a></b>
   - Imported, cleaned, and transformed Fitbit user data in R.
   - Analyzed user behavior by aggregating key metrics and identifying trends through visualizations in RStudio.
   - Provided recommendations for Bellabeat marketing strategies to increase consumer purchases and engagement.
