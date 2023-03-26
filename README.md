@@ -2,12 +2,10 @@
 
 <h2>👨‍💻 Analysis Projects:</h2>
 
-- <b><a href="https://github.com/D-Issa/Bellabeat-Smart-Device-Analysis">Bellabeat Smart Device Analysis</a></b>
-  - Imported, cleaned, and transformed Fitbit user data in R.
-  - Analyzed user behavior by aggregating key metrics and identifying trends through visualizations in RStudio.
-  - Provided recommendations for Bellabeat marketing strategies to increase consumer purchases and engagement.
+<b><a href="https://github.com/D-Issa/IMDB_Movies">IMDB Movie Analysis</a></b>
 
-
+This project is an exploratory data analysis on the top 1,000 movies according to IMDB to provide business recommendations to maximize gross earnings. The data was obtained from https://www.kaggle.com/datasets/shreyajagani13/imdb-movies-data then imported and cleaned in R. I successfully identified key metrics that impacted movie gross earnings and visualzied consumer perferences and market competitiveness based on different movie categories. These categories included year of release, genres, run time, ratings, and number of votes. I then used these findings to provide data-driven recommendations on what type of movies to create and what audience to target to improve business marketing strategy. 
+  
 <h2>📺 Certifications</h2>
 
 - [Google Data Analytics Professional Certificate](https://coursera.org/share/9f0e0e7bfff43c093bf177a41572e01e)
