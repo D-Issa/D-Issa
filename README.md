@@ -4,7 +4,7 @@
 
 <b><a href="https://github.com/D-Issa/IMDB_Movies">IMDB Movie Analysis</a></b>
 
-This project is an exploratory data analysis on the top 1,000 movies according to IMDB to provide business recommendations to maximize gross earnings. The data was obtained from https://www.kaggle.com/datasets/shreyajagani13/imdb-movies-data then imported and cleaned in R. I successfully identified key metrics that impacted movie gross earnings and visualzied consumer perferences and market competitiveness based on different movie categories. These categories included year of release, genres, run time, ratings, and number of votes. I then used these findings to provide data-driven recommendations on what type of movies to create and what audience to target to improve business marketing strategy. 
+This project is an exploratory data analysis on the top 1,000 movies according to IMDB to provide business recommendations to maximize gross earnings. The data was obtained from https://www.kaggle.com/datasets/shreyajagani13/imdb-movies-data then imported and cleaned in R. I successfully identified key metrics that impacted movie gross earnings and visualzied consumer preferences and market competitiveness based on different movie categories. These categories included year of release, genres, run time, ratings, and number of votes. I then used these findings to provide data-driven recommendations on what type of movies to create and what audience to target to improve business marketing strategy. 
   
 <h2>📺 Certifications</h2>
 
