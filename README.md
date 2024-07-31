@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dillon! <br/><a href="https://github.com/D-Issa">Data Science</a>, <a href="https://www.linkedin.com/in/dillon-issa-ba7095232/">Analytics Professional</a>
+<h1>Hi, I'm Dillon! <br/><a href="https://github.com/D-Issa">Product Management, Data Science</a>, <a href="https://www.linkedin.com/in/dillon-issa-ba7095232/">Analytics Professional</a>
 
 <h2>👨‍💻 Analysis Projects:</h2>
 
